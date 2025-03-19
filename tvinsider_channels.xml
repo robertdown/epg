@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="abc">ABC</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="acorn-tv">Acorn TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="antenna-tv">Antenna TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="awe">AWE</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="bounce-tv">Bounce TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="buzzr">Buzzr</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="catchy-comedy">Catchy Comedy</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="cbs">CBS</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="comet">Comet</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="court-tv">Court TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="cozi-tv">Cozi TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="create">Create</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="crime-and-investigation-network">Crime and Investigation Network</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="crunchyroll">Crunchyroll</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="dabl">Dabl</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="daystar">Daystar</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="estrella-tv">Estrella TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="fox">FOX</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="gettv">getTV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="grit">Grit</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="hln">HLN</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="ion-mystery">ION Mystery</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="ion-plus">Ion Plus</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="ion-television">Ion Television</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="jewelry-television">Jewelry Television</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="laff">Laff</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="law-and-crime">Law &amp; Crime</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="metv">MeTV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="metv-toons">MeTV Toons</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="movies">Movies!</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="mynetworktv">MyNetworkTV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="nasa-tv">NASA TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="nbc">NBC</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="newsmax">Newsmax</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="nhk-world">NHK World</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="oan">OAN</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="open-tv">Open TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="pbs">PBS</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="pbs-kids">PBS Kids</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="qvc">QVC</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="rewind-tv">Rewind TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="shophq">ShopHQ</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="start-tv">Start TV</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="story-television">Story Television</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="telemundo">Telemundo</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="telexitos">TeleXitos</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="the-cw">The CW</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="trinity-broadcast-network">Trinity Broadcast Network</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="true-crime-network">True Crime Network</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="" site_id="upn">UPN</channel>
+</channels>
